@@ -20,3 +20,5 @@ How to run Server
   npm install
 
   npm start or node server.js
+  
+![MVC_meme](https://user-images.githubusercontent.com/53373048/160268153-f9ef8cb7-edce-4147-ae18-b8e70217c726.png)
